@@ -30,5 +30,15 @@ Step 4: Stop capturing.
 
 ![Screenshot 2024-12-14 140131](https://github.com/user-attachments/assets/1128c2ff-d492-4dd1-8a33-505f3f682c2d)
 
-Step 5: Analyze network traffic.
+Step 5: Analyze network traffic by viewing the packet details.
+
+![Screenshot 2024-12-14 140641](https://github.com/user-attachments/assets/75d8ee40-f08a-435b-82c8-c0ef51b23ce2)
+
+![Screenshot 2024-12-14 140658](https://github.com/user-attachments/assets/debf0e60-11e1-4aed-a454-5be7d3427613)
+
+![Screenshot 2024-12-14 140713](https://github.com/user-attachments/assets/ebbcc145-c951-4b90-a5ce-b547d2c37a35)
+
+![Screenshot 2024-12-14 140754](https://github.com/user-attachments/assets/e751f9eb-394c-4804-bd6e-c556d0b32d76)
+
+Step 6: Filter traffic use display filters to focus on specific types.
 
