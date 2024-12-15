@@ -58,3 +58,15 @@ Step 8: For advanced analysis Wireshark includes several built-in tools located 
 - Protocol Hierarchy: to view a breakdown of protocols used in the capture.
 - Conversations: to see communication pairs and their traffic statistics.
 - Endpoints: to view traffic statistics for individual endpoint (IP addresses).
+
+![Screenshot 2024-12-14 141557](https://github.com/user-attachments/assets/6d8f7f5d-3455-4fb1-8b75-be50cc0a88ca)
+
+![Screenshot 2024-12-14 141635](https://github.com/user-attachments/assets/53bfd808-97e6-4384-a5a7-b25bd9498a7f)
+
+![Screenshot 2024-12-14 141700](https://github.com/user-attachments/assets/2492705f-2469-4076-912a-dada0a44fb63)
+
+Step 9: Create custom filters:
+
+![Screenshot 2024-12-14 142305](https://github.com/user-attachments/assets/57fe4c8e-ae83-4f83-9ee5-ae7b6a757fc5)
+
+![Screenshot 2024-12-14 142353](https://github.com/user-attachments/assets/f3df4278-be5e-4a10-9ea5-ea6cf7ab7f33)
