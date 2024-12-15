@@ -40,5 +40,14 @@ Step 5: Analyze network traffic by viewing the packet details.
 
 ![Screenshot 2024-12-14 140754](https://github.com/user-attachments/assets/e751f9eb-394c-4804-bd6e-c556d0b32d76)
 
-Step 6: Filter traffic use display filters to focus on specific types.
+Step 6: Filter traffic use display filters to focus on specific traffic types.
+
+![Screenshot 2024-12-14 134022](https://github.com/user-attachments/assets/2bb3ba65-7028-4127-a841-0af4e9b5ad4c)
+
+![Screenshot 2024-12-14 142305](https://github.com/user-attachments/assets/57fe4c8e-ae83-4f83-9ee5-ae7b6a757fc5)
+
+![Screenshot 2024-12-14 142353](https://github.com/user-attachments/assets/f3df4278-be5e-4a10-9ea5-ea6cf7ab7f33)
+
+Step 7: Right-click on a packet and select "Follow" where e can follow TCP or UDP stream.
+
 
