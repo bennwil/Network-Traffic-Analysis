@@ -48,6 +48,13 @@ Step 6: Filter traffic use display filters to focus on specific traffic types.
 
 ![Screenshot 2024-12-14 142353](https://github.com/user-attachments/assets/f3df4278-be5e-4a10-9ea5-ea6cf7ab7f33)
 
-Step 7: Right-click on a packet and select "Follow" where e can follow TCP or UDP stream.
+Step 7: Right-click on a packet and select "Follow" where we can follow TCP or UDP stream to see the entire conversation.
 
+![Screenshot 2024-12-14 134945](https://github.com/user-attachments/assets/690bbfe4-8039-4bee-8c99-2d4c1a7d44af)
 
+![Screenshot 2024-12-14 135028](https://github.com/user-attachments/assets/23ab6ec9-f57b-4b7d-979d-8fcde3085368)
+
+Step 8: For advanced analysis Wireshark includes several built-in tools located in the Statistics Menu tools like: 
+- Protocol Hierarchy: to view a breakdown of protocols used in the capture.
+- Conversations: to see communication pairs and their traffic statistics.
+- Endpoints: to view traffic statistics for individual endpoint (IP addresses).
