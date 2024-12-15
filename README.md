@@ -19,3 +19,8 @@ Step 1: Launch Wireshark on my Kali Linux.
 ![Screenshot 2024-12-14 132809](https://github.com/user-attachments/assets/3a6b7606-3fac-4457-99ac-4d3beaf32705)
 
 Step 2: Select the network interface to capture trffic on.
+
+![Screenshot 2024-12-14 132929](https://github.com/user-attachments/assets/f16d40f7-b9ca-4046-a670-614e316a4bca)
+
+Step 3: Start capturing network traffic.
+
