@@ -44,9 +44,9 @@ Step 6: Filter traffic use display filters to focus on specific traffic types.
 
 ![Screenshot 2024-12-14 134022](https://github.com/user-attachments/assets/2bb3ba65-7028-4127-a841-0af4e9b5ad4c)
 
-![Screenshot 2024-12-14 142305](https://github.com/user-attachments/assets/57fe4c8e-ae83-4f83-9ee5-ae7b6a757fc5)
+![Screenshot 2024-12-14 134646](https://github.com/user-attachments/assets/6d03e9ca-a1cd-420d-b25f-a216b9e5bb38)
 
-![Screenshot 2024-12-14 142353](https://github.com/user-attachments/assets/f3df4278-be5e-4a10-9ea5-ea6cf7ab7f33)
+![Screenshot 2024-12-14 134827](https://github.com/user-attachments/assets/17d6d724-355e-418a-97e3-8b7f30113600)
 
 Step 7: Right-click on a packet and select "Follow" where we can follow TCP or UDP stream to see the entire conversation.
 
