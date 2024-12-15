@@ -70,3 +70,5 @@ Step 9: Create custom filters:
 ![Screenshot 2024-12-14 142305](https://github.com/user-attachments/assets/57fe4c8e-ae83-4f83-9ee5-ae7b6a757fc5)
 
 ![Screenshot 2024-12-14 142353](https://github.com/user-attachments/assets/f3df4278-be5e-4a10-9ea5-ea6cf7ab7f33)
+
+In conclusion we use Wireshark to captured network traffic and performed a basic analysis of my network.
