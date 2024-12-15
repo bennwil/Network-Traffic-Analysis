@@ -14,10 +14,5 @@ Capturing and analyzing network traffic using Wireshark
 - Kali Linux with Wireshark.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Step 1: Launch Wireshark on my Kali Linux.
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
