@@ -28,4 +28,7 @@ Step 3: Start capturing network traffic.
 
 Step 4: Stop capturing.
 
+![Screenshot 2024-12-14 140131](https://github.com/user-attachments/assets/1128c2ff-d492-4dd1-8a33-505f3f682c2d)
+
+Step 5: Analyze network traffic.
 
