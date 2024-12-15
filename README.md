@@ -24,3 +24,8 @@ Step 2: Select the network interface to capture trffic on.
 
 Step 3: Start capturing network traffic.
 
+![Screenshot 2024-12-14 133100](https://github.com/user-attachments/assets/3f728d29-b3f0-4db1-98b5-79175a46f8f1)
+
+Step 4: Stop capturing.
+
+
